@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>OrientDB-NET.binary</id>
+    <version>0.2.1</version>
+    <title>OrientDB-NET.binary</title>
+    <authors>yojimbo87</authors>
+    <owners>yojimbo87</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/yojimbo87/OrientDB-NET.binary</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C#/.NET binary driver for OrientDB.</description>
+    <tags>orientdb orient c# .net database graph document</tags>
+  </metadata>
+</package>
